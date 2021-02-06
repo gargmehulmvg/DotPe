@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DotPeSample</string>
+    <string name="please_wait">Please wait…</string>
+    <string name="available_items">Available Items</string>
+    <string name="content_description">content_description</string>
+    <string name="sample_text">Bosch 7kg Fully-Automatic Front loading Washing Machine</string>
+    <string name="item">Item</string>
+    <string name="view_cart"><![CDATA[View Cart ->]]></string>
+    <string name="add">Add +</string>
+    <string name="items_in_cart">Items in Cart</string>
+    <string name="back_press_msg">Press the back button again to Exit!!!</string>
+</resources>
